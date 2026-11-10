@@ -1,0 +1,30 @@
+COMP 2113 Assignment 4 - Code Diary DRAFT
+Pawaninder Kaur (0310308)
+
+IMPORTANT: The entries below are proposed prompts for a diary, NOT verified
+historical activity. Replace them with a truthful record of the work you
+actually performed, on the dates it occurred, before submitting.
+
+15 October 2026 [VERIFY]
+- Reviewed max-heap and min-heap structure, and how parent/child indices work.
+- Planned Java ArrayList implementation and Python list implementation.
+
+16 October 2026 [VERIFY]
+- Worked on reading integers from a file and creating heaps with heapify().
+- Reviewed pushDown() for restoring order after removing the root.
+
+19 October 2026 [VERIFY]
+- Worked on bubbleUp() and adding new values to the heap.
+- Reviewed getRoot(), removeRoot(), and level-by-level printing.
+
+20 October 2026 [VERIFY]
+- Ran the Java and Python programs on sample input.
+- Checked results of heapify, root removal, and adding a new number.
+- Reviewed README, comments, and ZIP structure.
+
+Actual test notes (complete after you run the programs yourself):
+- Input used:
+- Java heap root observed:
+- Python heap root observed:
+- Additional cases tested (empty, one item, duplicates, negatives):
+- Any problems fixed:
